@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Student>
+    <MSSV>2210001</MSSV>
+    <LastName>Nguyễn Văn</LastName>
+    <FirstName>An</FirstName>
+    <DateOfBirth>2004-05-12T00:00:00</DateOfBirth>
+    <Gender>true</Gender>
+    <ClassName>K22CNTT</ClassName>
+    <CitizenId>079204001</CitizenId>
+    <Phone>0901234567</Phone>
+    <Email>an.nguyen@student.edu.vn</Email>
+    <Address>12 Nguyễn Huệ, Q.1, TP.HCM</Address>
+    <Subjects>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </Subjects>
+  </Student>
+  <Student>
+    <MSSV>2310015</MSSV>
+    <LastName>Trần Thị</LastName>
+    <FirstName>Bình</FirstName>
+    <DateOfBirth>2005-11-03T00:00:00</DateOfBirth>
+    <Gender>false</Gender>
+    <ClassName>K23HTTT</ClassName>
+    <CitizenId>079205112</CitizenId>
+    <Phone>0912345678</Phone>
+    <Email>binh.tran@student.edu.vn</Email>
+    <Address>45 Lê Lợi, Q.1, TP.HCM</Address>
+    <Subjects>
+      <string>Lập trình CSDL</string>
+      <string>Phương pháp NCKH</string>
+    </Subjects>
+  </Student>
+  <Student>
+    <MSSV>2210042</MSSV>
+    <LastName>Lê Hoàng</LastName>
+    <FirstName>Cường</FirstName>
+    <DateOfBirth>2004-08-21T00:00:00</DateOfBirth>
+    <Gender>true</Gender>
+    <ClassName>K22KTPM</ClassName>
+    <CitizenId>079204333</CitizenId>
+    <Phone>0987654321</Phone>
+    <Email>cuong.le@student.edu.vn</Email>
+    <Address>8 Trần Hưng Đạo, Q.5, TP.HCM</Address>
+    <Subjects>
+      <string>An toàn và bảo mật hệ thống</string>
+      <string>Lập trình mạng</string>
+    </Subjects>
+  </Student>
+</ArrayOfStudent>

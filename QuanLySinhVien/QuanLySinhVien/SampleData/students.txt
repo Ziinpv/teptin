@@ -1,0 +1,4 @@
+# MSSV|LastName|FirstName|DateOfBirth(yyyy-MM-dd)|Gender(1=Nam,0=Nu)|ClassName|CitizenId|Phone|Email|Address|Subjects(phân cách bằng ;)
+2210001|Nguyễn Văn|An|2004-05-12|1|K22CNTT|079204001|0901234567|an.nguyen@student.edu.vn|12 Nguyễn Huệ, Q.1, TP.HCM|Mạng máy tính;Hệ điều hành
+2310015|Trần Thị|Bình|2005-11-03|0|K23HTTT|079205112|0912345678|binh.tran@student.edu.vn|45 Lê Lợi, Q.1, TP.HCM|Lập trình CSDL;Phương pháp NCKH
+2210042|Lê Hoàng|Cường|2004-08-21|1|K22KTPM|079204333|0987654321|cuong.le@student.edu.vn|8 Trần Hưng Đạo, Q.5, TP.HCM|An toàn và bảo mật hệ thống;Lập trình mạng

@@ -1,0 +1,50 @@
+[
+  {
+    "MSSV": "2210001",
+    "LastName": "Nguyễn Văn",
+    "FirstName": "An",
+    "DateOfBirth": "2004-05-12T00:00:00",
+    "Gender": true,
+    "ClassName": "K22CNTT",
+    "CitizenId": "079204001",
+    "Phone": "0901234567",
+    "Email": "an.nguyen@student.edu.vn",
+    "Address": "12 Nguyễn Huệ, Q.1, TP.HCM",
+    "Subjects": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2310015",
+    "LastName": "Trần Thị",
+    "FirstName": "Bình",
+    "DateOfBirth": "2005-11-03T00:00:00",
+    "Gender": false,
+    "ClassName": "K23HTTT",
+    "CitizenId": "079205112",
+    "Phone": "0912345678",
+    "Email": "binh.tran@student.edu.vn",
+    "Address": "45 Lê Lợi, Q.1, TP.HCM",
+    "Subjects": [
+      "Lập trình CSDL",
+      "Phương pháp NCKH"
+    ]
+  },
+  {
+    "MSSV": "2210042",
+    "LastName": "Lê Hoàng",
+    "FirstName": "Cường",
+    "DateOfBirth": "2004-08-21T00:00:00",
+    "Gender": true,
+    "ClassName": "K22KTPM",
+    "CitizenId": "079204333",
+    "Phone": "0987654321",
+    "Email": "cuong.le@student.edu.vn",
+    "Address": "8 Trần Hưng Đạo, Q.5, TP.HCM",
+    "Subjects": [
+      "An toàn và bảo mật hệ thống",
+      "Lập trình mạng"
+    ]
+  }
+]
